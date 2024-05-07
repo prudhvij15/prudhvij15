@@ -31,7 +31,7 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=prudhvij15&show_icons=true&theme=dark&locale=en" alt="prudhvij15" /> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prudhvij15&theme=dark" alt="prudhvij15" />
  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prudhvij15&theme=default"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prudhvij15&theme=default"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prudhvij15&theme=vision-friendly-dark"/>
 </p>
 - 📄 Know about my experiences <a href="https://my-personal-resume01.s3.us-east-2.amazonaws.com/FullStack.pdf">Click here</a>
 <h3 align="left">Connect with me:</h3>
